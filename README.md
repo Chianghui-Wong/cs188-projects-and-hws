@@ -1,4 +1,4 @@
-# CS188-2018fall-projects
-# cs188-projects
+# CS188
+# cs188-projects&hws
 
-This repository only contains files that I modify, not the entire project.
+This projects in this repository only contains files that I modify, not the entire project.
